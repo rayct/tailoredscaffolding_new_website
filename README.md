@@ -1,1 +1,1 @@
-# tailoredscaffolding.co.uk_new_website
+# Website Redesign for tailoredscaffolding.co.uk. Using Django/Python Stack
